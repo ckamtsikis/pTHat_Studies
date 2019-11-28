@@ -1,0 +1,2 @@
+ALL_PACKAGES += SMPJ/AnalysisFW
+subdirs_src_SMPJ_AnalysisFW := src_SMPJ_AnalysisFW_plugins src_SMPJ_AnalysisFW_interface src_SMPJ_AnalysisFW_test src_SMPJ_AnalysisFW_data src_SMPJ_AnalysisFW_src src_SMPJ_AnalysisFW_python

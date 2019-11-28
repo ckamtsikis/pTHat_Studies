@@ -1,0 +1,14 @@
+[ libSMPJAnalysisFW.so ]
+# List of selected classes
+class QCDEvent
+class QCDEventHdr
+class QCDJet
+class QCDMET
+class QCDPFJet
+class QCDPFJetBTag
+header SMPJ/AnalysisFW/interface/QCDEvent.h
+header SMPJ/AnalysisFW/interface/QCDEventHdr.h
+header SMPJ/AnalysisFW/interface/QCDJet.h
+header SMPJ/AnalysisFW/interface/QCDMET.h
+header SMPJ/AnalysisFW/interface/QCDPFJet.h
+header SMPJ/AnalysisFW/interface/QCDPFJetBTag.h

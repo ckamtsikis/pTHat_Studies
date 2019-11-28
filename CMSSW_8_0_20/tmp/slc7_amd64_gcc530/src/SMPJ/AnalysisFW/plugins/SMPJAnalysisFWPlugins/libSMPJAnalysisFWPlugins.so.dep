@@ -1,0 +1,12 @@
+tmp/slc7_amd64_gcc530/src/SMPJ/AnalysisFW/plugins/SMPJAnalysisFWPlugins/Ratio_aSs_MC_Studies.o: \
+ src/SMPJ/AnalysisFW/plugins/Ratio_aSs_MC_Studies.cc \
+ src/SMPJ/AnalysisFW/plugins/Ratio_aSs_MC_Studies.h \
+ src/SMPJ/AnalysisFW/interface/QCDJet.h \
+ src/SMPJ/AnalysisFW/interface/QCDEvent.h \
+ src/SMPJ/AnalysisFW/interface/QCDMET.h \
+ src/SMPJ/AnalysisFW/interface/QCDCaloJet.h \
+ src/SMPJ/AnalysisFW/interface/QCDPFJet.h \
+ src/SMPJ/AnalysisFW/interface/QCDPFJetBTag.h \
+ src/SMPJ/AnalysisFW/interface/QCDEventHdr.h \
+ src/SMPJ/AnalysisFW/plugins/JECs.h \
+
